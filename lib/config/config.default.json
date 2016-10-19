@@ -1,0 +1,19 @@
+{
+    "env":"prod",
+    "database": {
+        "dialect":"mysql",
+        "host":"localhost",
+        "port":3306,
+        "username":"username",
+        "password":"password",
+        "dbname":"dbname",
+        "charset":"utf-8"
+    },
+    "email":{
+        "secureConnection": true,
+        "host":"smtp.163.com",
+        "port": 465 ,
+        "username":"itminus@163.com",
+        "password":"your_pass" 
+    }
+}
