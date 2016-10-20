@@ -1,0 +1,87 @@
+{
+    "name":"常州",
+    "index": "/",
+    "children": [
+        {
+            "name": "天宁",
+            "index": "/house-a0338/",
+            "children": []
+        },
+        {
+            "name": "钟楼",
+            "index": "/house-a0339/",
+            "children": []
+        },
+        {
+            "name": "新北",
+            "index": "/house-a0341/",
+                "children": [
+                    {
+                        "name": "春江",
+                        "index": "/house-a0341-b019726/",
+                        "children": []
+                    },
+                    {
+                        "name": "龙虎塘",
+                        "index": "/house-a0341-b013684/",
+                        "children": []
+                    },
+                    {
+                        "name": "薛家",
+                        "index": "/house-a0341-b013685/",
+                        "children": []
+                    },
+                    {
+                        "name": "三井",
+                        "index": "/house-a0341-b013686/",
+                        "children": []
+                    },
+                    {
+                        "name": "河海",
+                        "index": "/house-a0341-b013996/",
+                        "children": []
+                    },
+                    {
+                        "name": "西夏墅",
+                        "index": "/house-a0341-b013997/",
+                        "children": []
+                    },
+                    {
+                        "name": "孟河",
+                        "index": "/house-a0341-b014938/",
+                        "children": []
+                    },
+                    {
+                        "name": "新桥",
+                        "index": "/house-a0341-b014939/",
+                        "children": []
+                    },
+                    {
+                        "name": "罗溪",
+                        "index": "/house-a0341-b015707/",
+                        "children": []
+                    },
+                    {
+                        "name": "奔牛",
+                        "index": "/house-a0341-b013682/",
+                        "children": []
+                    }
+                ]
+        },
+        {
+            "name": "武进",
+            "index": "/house-a0342/",
+            "children": []
+        },
+        {
+            "name": "金坛",
+            "index": "/house-a0343/",
+            "children": []
+        },
+        {
+            "name": "溧阳",
+            "index": "/house-a0344/",
+            "children": []
+        }
+    ]
+}
