@@ -22,5 +22,12 @@ let seed=url.resolve(base,path);
 seed=url.resolve(seed,condition);
 console.log(seed);
 
-// 抓取
+// 启动脚本时初次抓取抓取
 crawler.crawl(seed);
+
+// 定期抓取
+setInterval(
+    function(){ crawler.crawl(seed); },
+    // 每隔4小时抓取一次
+    4*60*60*1000
+);
