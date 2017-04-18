@@ -1,7 +1,7 @@
 {
   "name": "ershoufang-crawler",
   "version": "0.1.0",
-  "description": "",
+  "description": "房天下二手房定向爬虫",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
